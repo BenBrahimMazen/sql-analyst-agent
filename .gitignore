@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/finance.db
+test_agent.py
+*.egg-info/
+.streamlit/
